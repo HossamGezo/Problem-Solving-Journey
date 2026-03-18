@@ -1,0 +1,16 @@
+/**
+ * Author: Hossam (HossamGezo)
+ * Problem: A_Say_Hello_With_C++
+ * Source: Assiut University Training - Sheet #1
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+ */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  string x;
+  cin >> x;
+  cout << "Hello, " << x;
+  return 0;
+}
