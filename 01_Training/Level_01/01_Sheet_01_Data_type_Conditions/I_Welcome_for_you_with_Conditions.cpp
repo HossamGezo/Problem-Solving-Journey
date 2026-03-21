@@ -17,6 +17,6 @@ int main() {
     cout << "Yes";
   else
     cout << "No";
-    
+
   return 0;
 }

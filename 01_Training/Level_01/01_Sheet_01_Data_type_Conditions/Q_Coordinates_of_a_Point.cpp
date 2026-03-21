@@ -28,5 +28,5 @@ int main() {
   else
     cout << "Eixo X";
 
-return 0;
+  return 0;
 }

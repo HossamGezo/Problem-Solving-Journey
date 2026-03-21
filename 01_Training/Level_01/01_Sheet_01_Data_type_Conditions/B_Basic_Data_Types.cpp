@@ -22,6 +22,6 @@ int main() {
       << ch << "\n"
       << fl << "\n"
       << dbl;
-      
+
   return 0;
 }

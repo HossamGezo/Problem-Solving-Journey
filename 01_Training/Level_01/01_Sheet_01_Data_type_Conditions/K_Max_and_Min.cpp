@@ -14,28 +14,28 @@ int main() {
 
   cin >> a >> b >> c;
 
-  if (a > b) {
-    x = a;
-    a = b;
-    b = x;
-  }
-  if (b > c) {
-    x = c;
-    c = b;
-    b = x;
-  }
-  if (a > b) {
-    x = a;
-    a = b;
-    b = x;
-  }
+  // if (a > b) {
+  //   x = a;
+  //   a = b;
+  //   b = x;
+  // }
+  // if (b > c) {
+  //   x = c;
+  //   c = b;
+  //   b = x;
+  // }
+  // if (a > b) {
+  //   x = a;
+  //   a = b;
+  //   b = x;
+  // }
 
-  cout << a << " " << c;
+  // cout << a << " " << c;
 
   // --- Another solution
   // --- Note : You have to include #include <algorithm>
 
-  // cout << min({a, b, c}) << " " << max({a, b, c});
+  cout << min({a, b, c}) << " " << max({a, b, c});
 
   return 0;
 }

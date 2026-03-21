@@ -17,6 +17,6 @@ int main() {
     cout << "Multiples";
   else
     cout << "No Multiples";
-    
+
   return 0;
 }

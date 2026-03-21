@@ -13,21 +13,21 @@ int main() {
 
   cin >> x;
 
-  if (int(x) < 65)
-    cout << "IS DIGIT";
-  else if (int(x) < 97)
-    cout << "ALPHA\nIS CAPITAL";
-  else
-    cout << "ALPHA\nIS SMALL";
-
-  // --- Another solution
-
-  // if (x < 'A')
+  // if (int(x) < 65)
   //   cout << "IS DIGIT";
-  // else if (x < 'a')
+  // else if (int(x) < 97)
   //   cout << "ALPHA\nIS CAPITAL";
   // else
   //   cout << "ALPHA\nIS SMALL";
+
+  // --- Another solution
+
+  if (x < 'A')
+    cout << "IS DIGIT";
+  else if (x < 'a')
+    cout << "ALPHA\nIS CAPITAL";
+  else
+    cout << "ALPHA\nIS SMALL";
 
   return 0;
 }
