@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: G_Summation_from_1_to_N
+ * Problem: I_Welcome_for_you_with_Conditions
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
  */
@@ -9,11 +9,14 @@
 using namespace std;
 
 int main() {
-  long long n;
+  int a, b;
 
-  cin >> n;
+  cin >> a >> b;
 
-  cout << (n * (n + 1 )) / 2;
-
+  if (a >= b)
+    cout << "Yes";
+  else
+    cout << "No";
+    
   return 0;
 }
