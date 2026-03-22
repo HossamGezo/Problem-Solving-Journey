@@ -14,7 +14,7 @@ int main() {
 
   cin >> a >> b >> c >> d;
 
-  if (log10(a) * b > log10(c) * d)
+  if (b * log(a) > d * log(c))
     cout << "YES";
   else
     cout << "NO";
