@@ -18,12 +18,12 @@ int main() {
   mx = max({a, b, c});
 
   cout << mn << endl
-      << (a + b + c) - (mn + mx) << endl
-      << mx << endl << endl;
+    << (a + b + c) - (mn + mx) << endl
+    << mx << endl << endl;
 
   cout << a << endl
-      << b << endl
-      << c;
+    << b << endl
+    << c;
 
   return 0;
 }

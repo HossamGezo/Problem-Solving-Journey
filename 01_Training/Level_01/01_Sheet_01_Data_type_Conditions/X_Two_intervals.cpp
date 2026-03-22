@@ -1,0 +1,42 @@
+/**
+ * Author: Hossam (HossamGezo)
+ * Problem: X_Two_intervals
+ * Source: Assiut University Training - Sheet #1
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+ */
+
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int main() {
+  long long l1, r1, l2, r2;
+
+  cin >> l1 >> r1 >> l2 >> r2;
+
+  // if (r1 < l2 || r2 < l1)
+  //   cout << "-1";
+  // else {
+  //   if (l2 >= l1 && r2 <= r1)
+  //     cout << l2 << " " << r2;
+  //   else if (l1 >= l2 && r1 <= r2)
+  //     cout << l1 << " " << r1;
+  //   else if (l2 < l1 && r2 < r1)
+  //     cout << l1 << " " << r2;
+  //   else if (l1 < l2 && r1 < r2)
+  //     cout << l2 << " " << r1;
+  // }
+
+  // --- Another Solution Note: With using ' #include <algorithm> ' library "Simpler solution"
+  long long l, r;
+
+  if (r1 < l2 || r2 < l1)
+    cout << "-1";
+  else {
+    l = max(l1, l2);
+    r = min(r1, r2);
+    cout << l << " " << r;
+  }
+
+  return 0;
+}
