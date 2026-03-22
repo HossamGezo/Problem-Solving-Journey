@@ -2,7 +2,7 @@
  * Author: Hossam (HossamGezo)
  * Problem: P_First_digit
  * Source: Assiut University Training - Sheet #1
- * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
  */
 
 #include <iostream>
