@@ -2,7 +2,7 @@
  * Author: Hossam (HossamGezo)
  * Problem: R_Age_in_Days
  * Source: Assiut University Training - Sheet #1
- * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R
  */
 
 #include <iostream>

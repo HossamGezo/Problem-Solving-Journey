@@ -2,7 +2,7 @@
  * Author: Hossam (HossamGezo)
  * Problem: X_Two_intervals
  * Source: Assiut University Training - Sheet #1
- * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
  */
 
 #include <iostream>
@@ -27,7 +27,7 @@ int main() {
   //     cout << l2 << " " << r1;
   // }
 
-  // --- Another Solution Note: With using ' #include <algorithm> ' library "Simpler solution"
+  // --- Another Solution Note: Using ' #include <algorithm> ' library "Simpler solution"
   long long l, r;
 
   if (r1 < l2 || r2 < l1)

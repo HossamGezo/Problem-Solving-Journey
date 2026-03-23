@@ -2,7 +2,7 @@
  * Author: Hossam (HossamGezo)
  * Problem: M_Capital_or_Small_or_Digit
  * Source: Assiut University Training - Sheet #1
- * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
  */
 
 #include <iostream>

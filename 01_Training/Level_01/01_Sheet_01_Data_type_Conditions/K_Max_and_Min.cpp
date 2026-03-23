@@ -2,7 +2,7 @@
  * Author: Hossam (HossamGezo)
  * Problem: K_Max_and_Min
  * Source: Assiut University Training - Sheet #1
- * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
  */
 
 #include <iostream>
@@ -32,8 +32,7 @@ int main() {
 
   // cout << a << " " << c;
 
-  // --- Another solution
-  // --- Note : You have to include #include <algorithm>
+  // --- Another Solution Note: Using ' #include <algorithm> ' library "Simpler solution"
 
   cout << min({a, b, c}) << " " << max({a, b, c});
 

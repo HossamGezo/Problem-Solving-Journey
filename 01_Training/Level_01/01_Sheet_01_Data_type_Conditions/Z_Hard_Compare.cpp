@@ -2,7 +2,7 @@
  * Author: Hossam (HossamGezo)
  * Problem: Z_Hard_Compare
  * Source: Assiut University Training - Sheet #1
- * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
  */
 
 #include <iostream>
@@ -14,7 +14,7 @@ int main() {
 
   cin >> a >> b >> c >> d;
 
-  if (log10(a) * b > log10(c) * d)
+  if (b * log(a) > d * log(c))
     cout << "YES";
   else
     cout << "NO";
