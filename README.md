@@ -14,7 +14,7 @@ Currently, I am building a solid programming foundation and improving my problem
 
 ### 📝 Assiut Sheets Progress
 - [x] Sheet #1 (Data type - Conditions)
-- [ ] Contest #1
+- [x] Contest #1
 - [ ] Sheet #2 (Loops)
 - [ ] Contest #2
 - [ ] Sheet #3 (Arrays)
