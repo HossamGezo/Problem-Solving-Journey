@@ -32,8 +32,7 @@ int main() {
 
   // cout << a << " " << c;
 
-  // --- Another solution
-  // --- Note : You have to include #include <algorithm>
+  // --- Another Solution Note: Using ' #include <algorithm> ' library "Simpler solution"
 
   cout << min({a, b, c}) << " " << max({a, b, c});
 
