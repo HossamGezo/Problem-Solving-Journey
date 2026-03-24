@@ -49,3 +49,6 @@
 # Extensions (CPH Judge)
 .cph/
 *.bin
+
+# Pre-commit cache
+.pre-commit/
