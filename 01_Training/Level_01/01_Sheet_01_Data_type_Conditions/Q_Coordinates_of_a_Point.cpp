@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: Q_Coordinates_of_a_Point
+ * Problem: Q Coordinates of a Point
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
  */

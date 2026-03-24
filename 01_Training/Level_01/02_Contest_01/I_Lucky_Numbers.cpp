@@ -1,12 +1,12 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: I_Lucky_Numbers
+ * Problem: I Lucky Numbers
  * Source: Assiut University Training - Contest #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I
  */
 
-#include <iostream>
 #include <algorithm>
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -22,8 +22,20 @@ int main() {
   // else
   //   cout << "NO";
 
-  // --- Another Solution Note: Using ' #include <algorithm> ' library "Simpler solution"
-  if (n % 10 == 0 || max(x, y) % min(x, y) == 0)
+  // --- Another Solution Note: Using ' #include <algorithm> ' library
+  // if (n % 10 == 0 || max(x, y) % min(x, y) == 0)
+  //   cout << "YES";
+  // else
+  //   cout << "NO";
+
+  // --- Another Solution Note: Without using ' #include <algorithm> ' library
+  // if (n % 10 == 0 || x % y == 0 || y % x == 0)
+  //   cout << "YES";
+  // else
+  //   cout << "NO";
+
+  // --- Another Solution Note: Without using ' #include <algorithm> ' library "Simpler solution"
+  if (y == 0 || x % y == 0 || y % x == 0)
     cout << "YES";
   else
     cout << "NO";

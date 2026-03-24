@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: P_First_digit
+ * Problem: P First digit
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
  */
@@ -13,7 +13,7 @@ int main() {
 
   cin >> x;
 
-  if((x / 1000) % 2)
+  if ((x / 1000) % 2)
     cout << "ODD";
   else
     cout << "EVEN";

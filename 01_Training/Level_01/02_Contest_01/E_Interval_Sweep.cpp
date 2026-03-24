@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: E_Interval_Sweep
+ * Problem: E Interval Sweep
  * Source: Assiut University Training - Contest #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E
  */

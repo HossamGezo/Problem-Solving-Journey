@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: A_Say_Hello_With_C++
+ * Problem: A Say Hello With C++
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
  */

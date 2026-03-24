@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: C_Next_Alphabet
+ * Problem: C Next Alphabet
  * Source: Assiut University Training - Contest #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C
  */

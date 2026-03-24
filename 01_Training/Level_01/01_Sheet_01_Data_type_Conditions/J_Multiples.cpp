@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: J_Multiples
+ * Problem: J Multiples
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
  */

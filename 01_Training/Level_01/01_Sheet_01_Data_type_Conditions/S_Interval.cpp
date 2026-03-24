@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: S_Interval
+ * Problem: S Interval
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S
  */
@@ -22,8 +22,7 @@ int main() {
       cout << "Interval (50,75]";
     else
       cout << "Interval (75,100]";
-  }
-  else
+  } else
     cout << "Out of Intervals";
 
   return 0;

@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: B_Memo_and_Momo
+ * Problem: B Memo and Momo
  * Source: Assiut University Training - Contest #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B
  */

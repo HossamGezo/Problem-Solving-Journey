@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: B_Basic_Data_Types
+ * Problem: B Basic Data Types
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B
  */
@@ -17,11 +17,7 @@ int main() {
 
   cin >> x >> ll >> ch >> fl >> dbl;
 
-  cout << x << "\n"
-      << ll << "\n"
-      << ch << "\n"
-      << fl << "\n"
-      << dbl;
+  cout << x << "\n" << ll << "\n" << ch << "\n" << fl << "\n" << dbl;
 
   return 0;
 }
