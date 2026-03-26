@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: D_Ali_Baba_and_Puzzles
+ * Problem: D Ali Baba and Puzzles
  * Source: Assiut University Training - Contest #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D
  */
@@ -27,6 +27,6 @@ int main() {
     cout << "YES";
   else
     cout << "NO";
-    
+
   return 0;
 }

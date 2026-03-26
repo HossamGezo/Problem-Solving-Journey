@@ -1,0 +1,20 @@
+/**
+ * Author: Hossam (HossamGezo)
+ * Problem: K Divisors
+ * Source: Assiut University Training - Sheet #2
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K
+ */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int n;
+
+  cin >> n;
+
+  for (int i = 1; i <= n; ++i)
+    if (n % i == 0) cout << i << endl;
+
+  return 0;
+}

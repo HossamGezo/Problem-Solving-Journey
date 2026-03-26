@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: H_Data_Type_Guessing
+ * Problem: H Data Type Guessing
  * Source: Assiut University Training - Contest #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H
  */
@@ -10,7 +10,6 @@ using namespace std;
 
 int main() {
   long long n, k, a, r;
-
 
   cin >> n >> k >> a;
 

@@ -1,6 +1,6 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: D_Difference
+ * Problem: D Difference
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
  */
@@ -13,7 +13,7 @@ int main() {
 
   cin >> a >> b >> c >> d;
 
-  cout << "Difference = " << (a * b) - ( c * d);
+  cout << "Difference = " << (a * b) - (c * d);
 
   return 0;
 }

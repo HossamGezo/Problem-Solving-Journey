@@ -1,12 +1,12 @@
 /**
  * Author: Hossam (HossamGezo)
- * Problem: T_Sort_Numbers
+ * Problem: T Sort Numbers
  * Source: Assiut University Training - Sheet #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
  */
 
-#include <iostream>
 #include <algorithm>
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -17,13 +17,9 @@ int main() {
   mn = min({a, b, c});
   mx = max({a, b, c});
 
-  cout << mn << endl
-    << (a + b + c) - (mn + mx) << endl
-    << mx << endl << endl;
+  cout << mn << endl << (a + b + c) - (mn + mx) << endl << mx << endl << endl;
 
-  cout << a << endl
-    << b << endl
-    << c;
+  cout << a << endl << b << endl << c;
 
   return 0;
 }
