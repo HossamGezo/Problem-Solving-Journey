@@ -28,6 +28,7 @@ int main() {
   // }
 
   // --- Another Solution Note: Using ' #include <algorithm> ' library "Simpler solution"
+
   long long l, r;
 
   if (r1 < l2 || r2 < l1)
