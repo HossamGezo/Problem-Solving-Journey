@@ -19,7 +19,7 @@ Currently, I am building a solid programming foundation and improving my problem
 - [x] Sheet #1 (Data type - Conditions)
 - [x] Contest #1
 - [x] Sheet #2 (Loops)
-- [ ] Contest #2
+- [x] Contest #2
 - [ ] Sheet #3 (Arrays)
 - [ ] Contest #3.1
 - [ ] Sheet #4 (Strings)
