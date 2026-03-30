@@ -43,13 +43,14 @@ int main() {
   for (int i = 0; i < n; ++i) {
     if (a[i] == b[idx]) ++idx;
 
-    if (idx == m) break;
+    if (idx == m) {
+      cout << "YES";
+
+      return 0;
+    }
   }
 
-  if (idx == m)
-    cout << "YES";
-  else
-    cout << "NO";
+  cout << "NO";
 
   return 0;
 }
