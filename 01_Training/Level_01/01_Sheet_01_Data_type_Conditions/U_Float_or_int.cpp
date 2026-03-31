@@ -19,14 +19,14 @@ int main() {
   // else
   //   cout << "float " << floor(n) << " " << n - floor(n);
 
-  // --- Another Solution Note: Without using ' #include <cmath> ' library
+  // NOTE --- Another Solution Note: Without using ' #include <cmath> ' library
 
   // if (!(n - int(n)))
   //   cout << "int " << int(n);
   // else
   //   cout << "float " << int(n) << " " << n - int(n);
 
-  // --- Another Solution Note: Without using ' #include <cmath> ' library "Simpler solution"
+  // NOTE --- Another Solution Note: Without using ' #include <cmath> ' library "Simpler solution"
 
   int m = n;
 

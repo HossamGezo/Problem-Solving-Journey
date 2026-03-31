@@ -20,7 +20,7 @@ int main() {
 
   for (int i = n - 1; i >= 0; --i) cout << arr[i] << " ";
 
-  // --- Another Solution Note: Using ' #include <algorithm> ' library "reverse method"
+  // NOTE --- Another Solution Note: Using ' #include <algorithm> ' library "reverse method"
 
   // int arr[n];
 
@@ -30,7 +30,7 @@ int main() {
 
   // for (int i = 0; i < n; ++i) cout << arr[i] << " ";
 
-  // --- Another Solution Note: Using ' #include <algorithm> ' library "swap method"
+  // NOTE --- Another Solution Note: Using ' #include <algorithm> ' library "swap method"
 
   // int arr[n];
 
@@ -40,7 +40,7 @@ int main() {
 
   // for (int i = 0; i < n; ++i) cout << arr[i] << " ";
 
-  // --- Another Solution Note: Using 2 Arrays
+  // NOTE --- Another Solution Note: Using 2 Arrays
 
   // int arr[n], rev[n];
 

@@ -25,7 +25,7 @@ int main() {
     cout << endl;
   }
 
-  // --- Another Solution Note: Using ' #include <algorithm> ' library
+  // NOTE --- Another Solution Note: Using ' #include <algorithm> ' library
 
   // for (int i = 0; i < n; ++i) reverse(arr[i], arr[i] + m);
 
