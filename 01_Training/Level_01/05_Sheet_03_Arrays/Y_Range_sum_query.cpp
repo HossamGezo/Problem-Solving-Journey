@@ -38,6 +38,7 @@ int main() {
   long long prf[n];
 
   // NOTE - Using sum -
+
   // for (int i = 0; i < n; ++i) {  // O(n)
   //   sum += arr[i];
 
@@ -45,6 +46,7 @@ int main() {
   // }
 
   // NOTE - Without using sum -
+
   prf[0] = arr[0];
 
   for (int i = 1; i < n; ++i) prf[i] = prf[i - 1] + arr[i];  // O(n)
@@ -55,12 +57,18 @@ int main() {
     --l;
     --r;
 
-    if (l == 0)
-      cout << prf[r];  // O(1)
-    else
-      cout << prf[r] - prf[l - 1];  // O(1)
+    // NOTE - Using conditions -
 
-    cout << endl;
+    // if (l == 0)
+    //   cout << prf[r];  // O(1)
+    // else
+    //   cout << prf[r] - prf[l - 1];  // O(1)
+
+    // cout << endl;
+
+    // NOTE - Without using conditions -
+
+    cout << prf[r] - prf[l] + arr[l] << endl;  // O(1)
   }
 
   return 0;
