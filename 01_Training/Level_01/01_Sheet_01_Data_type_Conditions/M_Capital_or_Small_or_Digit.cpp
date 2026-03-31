@@ -20,7 +20,7 @@ int main() {
   // else
   //   cout << "ALPHA\nIS SMALL";
 
-  // --- Another solution
+  // NOTE --- Another solution
 
   if (x < 'A')
     cout << "IS DIGIT";

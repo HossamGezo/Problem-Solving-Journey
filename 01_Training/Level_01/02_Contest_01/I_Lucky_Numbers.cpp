@@ -22,19 +22,23 @@ int main() {
   // else
   //   cout << "NO";
 
-  // --- Another Solution Note: Using ' #include <algorithm> ' library
+  // NOTE --- Another Solution Note: Using ' #include <algorithm> ' library
+
   // if (n % 10 == 0 || max(x, y) % min(x, y) == 0)
   //   cout << "YES";
   // else
   //   cout << "NO";
 
-  // --- Another Solution Note: Without using ' #include <algorithm> ' library
+  // NOTE --- Another Solution Note: Without using ' #include <algorithm> ' library
+
   // if (n % 10 == 0 || x % y == 0 || y % x == 0)
   //   cout << "YES";
   // else
   //   cout << "NO";
 
-  // --- Another Solution Note: Without using ' #include <algorithm> ' library "Simpler solution"
+  // NOTE --- Another Solution Note: Without using ' #include <algorithm> ' library "Simpler
+  // solution"
+
   if (y == 0 || x % y == 0 || y % x == 0)
     cout << "YES";
   else

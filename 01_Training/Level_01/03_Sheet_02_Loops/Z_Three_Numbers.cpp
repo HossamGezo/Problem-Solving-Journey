@@ -15,7 +15,7 @@ int main() {
   cin >> k >> s;
   mn = min(k, s);
 
-  // Note: This solution will give you a "Time Limit Exceeded" error
+  // NOTE --- This solution will give you a "Time Limit Exceeded" error
   // for (int i = 0; i <= mn; ++i) {
   //   for (int j = 0; j <= mn; ++j) {
   //     if (i + j > s) break;

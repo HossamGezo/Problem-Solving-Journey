@@ -24,7 +24,8 @@ int main() {
   cout << fixed << setprecision(2);
   cout << p + (x * p) / (100 - x);
 
-  // --- Another Solution Note: This is a different equation
+  // NOTE --- Another Solution Note: This is a different equation
+
   /**
    *  p ---- > (100 - x)%
    *  d ---- > 100% (Note: That's equal '1')
