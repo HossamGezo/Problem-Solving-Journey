@@ -33,7 +33,7 @@ int main() {
     //   }
     // }
 
-    // NOTE --- Another Solution Note: "Simpler solution"
+    // NOTE --- Another Solution "Simpler solution"
 
     for (int i = 0; i < n; ++i) {
       mx = INT_MIN;
@@ -44,7 +44,7 @@ int main() {
       }
     }
 
-    // NOTE --- Another Solution Note: Using ' #include <algorithm> ' library "Simpler solution"
+    // NOTE --- Another Solution Using ' #include <algorithm> ' library "Simpler solution"
 
     // for (int i = 0; i < n; ++i) {
     //   mx = INT_MIN;

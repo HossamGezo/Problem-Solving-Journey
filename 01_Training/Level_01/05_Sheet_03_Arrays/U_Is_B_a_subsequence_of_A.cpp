@@ -36,7 +36,7 @@ int main() {
   // else
   //   cout << "NO";
 
-  // NOTE --- Another Solution Note: "Simpler solution"
+  // NOTE --- Another Solution "Simpler solution"
 
   int idx = 0;
 

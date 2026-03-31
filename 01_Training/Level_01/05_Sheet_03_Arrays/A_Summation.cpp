@@ -26,7 +26,7 @@ int main() {
   // else
   //   cout << sum;
 
-  // NOTE --- Another Solution Note: Using ' #include <cmath> ' library & Array
+  // NOTE --- Another Solution Using ' #include <cmath> ' library & Array
 
   int n;
   long long sum = 0;

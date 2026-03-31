@@ -37,7 +37,7 @@ int main() {
 
   // cout << y;
 
-  // NOTE --- Another Solution Note: Using ' Array '
+  // NOTE --- Another Solution Using ' Array '
 
   long long fb[n];
 
