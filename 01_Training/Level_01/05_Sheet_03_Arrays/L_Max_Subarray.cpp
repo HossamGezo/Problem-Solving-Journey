@@ -33,7 +33,7 @@ int main() {
     //   }
     // }
 
-    // NOTE --- Another Solution "Simpler solution"
+    // NOTE --- "Simpler solution"
 
     for (int i = 0; i < n; ++i) {
       mx = INT_MIN;
