@@ -21,7 +21,7 @@ Currently, I am building a solid programming foundation and improving my problem
 - [x] Sheet #2 (Loops)
 - [x] Contest #2
 - [x] Sheet #3 (Arrays)
-- [ ] Contest #3.1
+- [x] Contest #3.1
 - [ ] Sheet #4 (Strings)
 - [ ] Sheet #5 (Functions)
 - [ ] Sheet #6 (Math - Geometry)
