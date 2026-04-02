@@ -38,7 +38,7 @@ int main() {
   // else
   //   cout << "no";
 
-  // NOTE --- Another Solution Note: "Simpler solution"
+  // NOTE --- "Simpler solution"
 
   if (arr[x][y + 1] == '.' || arr[x][y - 1] == '.' || arr[x - 1][y] == '.' ||
       arr[x + 1][y] == '.' || arr[x + 1][y - 1] == '.' || arr[x - 1][y + 1] == '.' ||
@@ -47,7 +47,7 @@ int main() {
 
   cout << "yes";
 
-  // NOTE --- Another Solution Note: Using ' #include <algorithm> ' library
+  // NOTE --- Another Solution Using ' #include <algorithm> ' library
 
   // arr[x][y] == 'x';
 
