@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: F Way Too Long Words
  * Source: Assiut University Training - Sheet #4
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F

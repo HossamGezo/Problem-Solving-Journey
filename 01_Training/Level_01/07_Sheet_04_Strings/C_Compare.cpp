@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: C Compare
  * Source: Assiut University Training - Sheet #4
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C
