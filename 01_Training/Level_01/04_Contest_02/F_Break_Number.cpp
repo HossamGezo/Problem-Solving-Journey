@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: F Break Number
  * Source: Assiut University Training - Contest #2
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/F

@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: A Square or rectangle
  * Source: Assiut University Training - Contest #3.1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/A

@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: Y Easy Fibonacci
  * Source: Assiut University Training - Sheet #2
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y

@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: R Sequence of Numbers and Sum
  * Source: Assiut University Training - Sheet #2
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R

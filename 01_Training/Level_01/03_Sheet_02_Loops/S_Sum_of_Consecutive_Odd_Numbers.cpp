@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: S Sum of Consecutive Odd Numbers
  * Source: Assiut University Training - Sheet #2
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S
