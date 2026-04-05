@@ -29,7 +29,7 @@ int main() {
   // else
   //   cout << y;
 
-  // NOTE --- Another Solution Using ' #include <algorithm> ' library "Simpler solution"
+  // NOTE --- Simpler solution
 
   cout << min(x, y);
 
