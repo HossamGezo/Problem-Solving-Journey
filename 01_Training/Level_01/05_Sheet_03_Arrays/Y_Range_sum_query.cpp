@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: Y Range sum query
  * Source: Assiut University Training - Sheet #3
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y

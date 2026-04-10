@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: E Interval Sweep
  * Source: Assiut University Training - Contest #1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E

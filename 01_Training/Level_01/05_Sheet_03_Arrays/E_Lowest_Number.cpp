@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: E Lowest Number
  * Source: Assiut University Training - Sheet #3
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E

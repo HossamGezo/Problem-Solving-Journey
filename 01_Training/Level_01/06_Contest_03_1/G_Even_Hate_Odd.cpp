@@ -1,5 +1,5 @@
 /**
- * Author: Hossam (HossamGezo)
+ * Author: Gezo
  * Problem: G Even Hate Odd
  * Source: Assiut University Training - Contest #3.1
  * Link: https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G
