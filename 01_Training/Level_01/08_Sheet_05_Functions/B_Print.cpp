@@ -2,7 +2,7 @@
  * Author: Gezo
  * Problem: B Print
  * Source: Assiut University Training - Sheet #4
- * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B
  */
 
 #include <iostream>

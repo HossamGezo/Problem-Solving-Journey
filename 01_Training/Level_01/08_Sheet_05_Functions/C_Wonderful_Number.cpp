@@ -2,7 +2,7 @@
  * Author: Gezo
  * Problem: C Wonderful Number
  * Source: Assiut University Training - Sheet #4
- * Link: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C
+ * Link: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C
  */
 
 #include <algorithm>
