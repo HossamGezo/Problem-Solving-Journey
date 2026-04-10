@@ -22,7 +22,7 @@ Currently, I am building a solid programming foundation and improving my problem
 - [x] Contest #2
 - [x] Sheet #3 (Arrays)
 - [x] Contest #3.1
-- [ ] Sheet #4 (Strings)
+- [x] Sheet #4 (Strings)
 - [ ] Sheet #5 (Functions)
 - [ ] Sheet #6 (Math - Geometry)
 - [ ] Sheet #7 (Recursion)
