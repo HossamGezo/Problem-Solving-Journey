@@ -9,7 +9,7 @@
 #include <limits>
 using namespace std;
 
-void solve(int n, int arr[]) {
+void solve(int arr[], int n) {
   int mn = INT_MAX;
   int mx = INT_MIN;
 
@@ -31,7 +31,7 @@ int main() {
 
   int arr[n];
 
-  solve(n, arr);
+  solve(arr, n);
 
   return 0;
 }
